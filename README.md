@@ -1,2 +1,2 @@
 # old-school-cars
-minor projects
+minor project
